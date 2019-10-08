@@ -1,0 +1,2 @@
+Text files: In this type of file, Each line of text is terminated with a special character called EOL (End of Line), which is the new line character (‘\n’) in python by default.
+Binary files: In this type of file, there is no terminator for a line and the data is stored after converting it into machine understandable binary language.
